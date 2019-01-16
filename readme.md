@@ -27,7 +27,7 @@ OSX:
 
 [get it here](https://gist.githack.com/CTrauma/da96abb1301713cb73e609f6fabd650d/raw/bfdaf5cc5082c498bdfde9381dc9f8d294cfc3eb/getnode.sh)
 
-commandline
+commandline _will download latest_
 
 ```
 % ./getnode.sh 
